@@ -1,3 +1,7 @@
+### Pre-requisites 📋
+
+_⚠ Open with LiveServer ⚠_
+
 ## Set up 🔧
 
 _Run commands_
